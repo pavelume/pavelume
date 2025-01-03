@@ -1,6 +1,6 @@
 # Hi there 👋, This is Mahmudul Islam
-### Backend Developer 
-![I am a backend developer ](https://media-exp2.licdn.com/dms/image/C5616AQGWhL9ecROi8w/profile-displaybackgroundimage-shrink_350_1400/0/1602079444853?e=1661990400&v=beta&t=7cwUGJwoJwHEQglnDdzPvnoJcvR6hvpzpIOwCBEMevY)
+### Full Stack Developer 
+![I am a MERN Stack developer ](https://media-exp2.licdn.com/dms/image/C5616AQGWhL9ecROi8w/profile-displaybackgroundimage-shrink_350_1400/0/1602079444853?e=1661990400&v=beta&t=7cwUGJwoJwHEQglnDdzPvnoJcvR6hvpzpIOwCBEMevY)
 
 I am an experienced IT graduate, and professionally working as a software developer.  Experience in developing  with a demonstrated history of working in the program development industry. Skilled in  HTML, CSS ,jQuery, JavaScript, TypeScript , NodeJS, MongoDB etc. Strong engineering professional with a Bachelor of  Computer Science and Engineering (BCSE) focused in  Software Engineering. 
 
